@@ -1,7 +1,7 @@
 # csspilot
 
 
-My Portfolio Webpage made while learning web dev
+My Portfolio Webpage I made while learning web dev
 
 
 Pretty Noob i know :)
